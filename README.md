@@ -1,5 +1,7 @@
 Get Your Website Seen! 
 
+https://tarynmoore.github.io/Challenge-1/
+
 In this day and age there are millions of websites out there trying to push their products. 
 There are so many ways to get your business seen and bring more traffic to your website.
 Through utilizing your search engine optimization, creating better reputation online, and better social media marketing, Horiseon will help you get there!
