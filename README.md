@@ -10,7 +10,7 @@ Problems in the starter code
 
 HTML
 When given the starter code it did not meet accessibility standards. 
-The starter code had too many <div>'s, no proper header/footer, no <alt> attributes, and no descriptive tite. 
+The starter code had too many div's, no proper header/footer, no alt attributes, and no descriptive title. 
 There were random #id tags that weren't necessary. 
 
 
